@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service_047_ImamZakky", "Se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server_047_ImamZakky", "Server_047_ImamZakky\Server_047_ImamZakky.csproj", "{AE2574A8-0432-472D-877E-85C2B5C3458D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_047_ImamZakky", "Client_047_ImamZakky\Client_047_ImamZakky.csproj", "{82F51BA7-272A-4213-8E6B-1E77304C6EDC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D9D41DEA-10E2-41DB-B6A6-3F896493609D} = {D9D41DEA-10E2-41DB-B6A6-3F896493609D}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +26,10 @@ Global
 		{AE2574A8-0432-472D-877E-85C2B5C3458D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE2574A8-0432-472D-877E-85C2B5C3458D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE2574A8-0432-472D-877E-85C2B5C3458D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82F51BA7-272A-4213-8E6B-1E77304C6EDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82F51BA7-272A-4213-8E6B-1E77304C6EDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82F51BA7-272A-4213-8E6B-1E77304C6EDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82F51BA7-272A-4213-8E6B-1E77304C6EDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
