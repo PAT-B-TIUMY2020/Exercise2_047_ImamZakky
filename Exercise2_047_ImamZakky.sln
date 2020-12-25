@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1300
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service_047_ImamZakky", "Service_047_ImamZakky\Service_047_ImamZakky.csproj", "{D9D41DEA-10E2-41DB-B6A6-3F896493609D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server_047_ImamZakky", "Server_047_ImamZakky\Server_047_ImamZakky.csproj", "{AE2574A8-0432-472D-877E-85C2B5C3458D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9D41DEA-10E2-41DB-B6A6-3F896493609D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D41DEA-10E2-41DB-B6A6-3F896493609D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D41DEA-10E2-41DB-B6A6-3F896493609D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D41DEA-10E2-41DB-B6A6-3F896493609D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE2574A8-0432-472D-877E-85C2B5C3458D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE2574A8-0432-472D-877E-85C2B5C3458D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE2574A8-0432-472D-877E-85C2B5C3458D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE2574A8-0432-472D-877E-85C2B5C3458D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F93997B-9D07-4BAE-81AC-144CC4F72CB3}
+	EndGlobalSection
+EndGlobal
